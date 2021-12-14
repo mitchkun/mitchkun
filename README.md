@@ -1,3 +1,37 @@
 <h1 align="center">Hi 👋, I'm Fisayo Obilaja</h1>
 
 I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working on [CoinForBarter.com](https://coinforbarter.com).
+
+Learn more at: [dev.page/fisayoobilaja](https://dev.page/fisayoobilaja).
+
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fiizzy&title=Commit,PullRequest,Repositories,Issues,Followers&theme=onedark" />
+  </a>
+</p>
+
+<div>
+  <img height="170" align="left" alt="fiizzy stats" src="https://github-readme-stats.vercel.app/api?username=fiizzy&show_icons=true&theme=onedark" />
+  <img alt="fiizzy top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiizzy&layout=compact&theme=onedark" />
+</div>
+
+<!-- ## Resume
+[leedavidcs.github.io/leedavidcs](https://leedavidcs.github.io/leedavidcs) -->
+
+# Project Stack
+Below is the base stack that I'm currently using for personal projects. Definitely try it out.
+
+## Language
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+
+
+## Framework
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+
+## Tools
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+
