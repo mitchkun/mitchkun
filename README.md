@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fisayo Obilaja</h1>
 
-I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working on [CoinForBarter.com](https://coinforbarter.com).
+I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working at [MayJuun](https://mayjuun.com).
 
 Learn more at: [dev.page/fisayoobilaja](https://dev.page/fisayoobilaja).
 
