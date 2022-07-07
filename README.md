@@ -52,6 +52,5 @@ Below is the base stack that I'm currently using for personal projects. Definite
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean)
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Firestore](https://img.shields.io/badge/-Firestore-black?style=flat-square&logo=firestore)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure)
 
