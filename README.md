@@ -23,7 +23,8 @@ Below is the base stack that I'm currently using for personal projects. Definite
 
 ## Language
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 
 
 ## Framework
