@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fisayo Obilaja</h1>
+<h1 align="center">Hi 👋, My Name is Mitchell Dube</h1>
 
 I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working at [MayJuun](https://mayjuun.com).
 
-Learn more at: [dev.page/fisayoobilaja](https://dev.page/fisayoobilaja).
+Learn more at: [mitchkun.github.io](https://mitchkun.github.io).
 
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/mitchkun/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=fiizzy&title=Commit,PullRequest,Repositories,Issues,Followers&theme=onedark" />
   </a>
 </p>
