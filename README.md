@@ -11,8 +11,8 @@ Learn more at: [mitchkun.github.io](https://mitchkun.github.io).
 </p>
 
 <div>
-  <img height="170" align="left" alt="fiizzy stats" src="https://github-readme-stats.vercel.app/api?username=fiizzy&show_icons=true&theme=onedark" />
-  <img alt="fiizzy top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiizzy&layout=compact&theme=onedark" />
+  <img height="170" align="left" alt="fiizzy stats" src="https://github-readme-stats.vercel.app/api?username=mitchkun&show_icons=true&theme=onedark" />
+  <img alt="fiizzy top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchkun&layout=compact&theme=onedark" />
 </div>
 
 <!-- ## Resume
