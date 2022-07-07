@@ -6,7 +6,7 @@ Learn more at: [mitchkun.github.io](https://mitchkun.github.io).
 
 <p>
   <a href="https://github.com/mitchkun/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fiizzy&title=Commit,PullRequest,Repositories,Issues,Followers&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mitchkun&title=Commit,PullRequest,Repositories,Issues,Followers&theme=onedark" />
   </a>
 </p>
 
