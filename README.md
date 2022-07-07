@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My Name is Mitchell Dube</h1>
 
-I am a Software Engineer who enjoys exploring different technologies, improving the developer experience and working at [MayJuun](https://mayjuun.com).
+I am a Software Engineer who enjoys exploring different technologies, improving the developer experience.
 
 Learn more at: [mitchkun.github.io](https://mitchkun.github.io).
 
@@ -12,7 +12,7 @@ Learn more at: [mitchkun.github.io](https://mitchkun.github.io).
 
 <div>
   <img height="170" align="left" alt="fiizzy stats" src="https://github-readme-stats.vercel.app/api?username=mitchkun&show_icons=true&theme=onedark" />
-  <img alt="fiizzy top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchkun&layout=compact&theme=onedark" />
+  <img alt="mitchkun top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchkun&layout=compact&theme=onedark" />
 </div>
 
 <!-- ## Resume
