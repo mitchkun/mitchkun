@@ -21,18 +21,37 @@ Learn more at: [mitchkun.github.io](https://mitchkun.github.io).
 # Project Stack
 Below is the base stack that I'm currently using for personal projects. Definitely try it out.
 
-## Language
+## Languages
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Html5](https://img.shields.io/badge/-Html5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 
 ## Framework
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+
 
 ## Tools
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
+!['Github actions'](https://img.shields.io/badge/-GithubActions-black?style=flat-square&logo=githubactions)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+
+
+
+## Infrastructure
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Firestore](https://img.shields.io/badge/-Firestore-black?style=flat-square&logo=firestore)
 
